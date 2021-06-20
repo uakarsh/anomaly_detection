@@ -51,7 +51,7 @@ I think that more experimentation can be done, with the help of feature extracto
 ### 📺 Some of my projects:
 
 <!-- YOUTUBE:START -->
-- [Medical Visual Question Answering (Current Repository)](https://github.com/uakarsh/med-vqa)
+- [Medical Visual Question Answering](https://github.com/uakarsh/med-vqa)
 - [Customer Segmentation (Unsupervised Learning)](https://github.com/uakarsh/customer-segmentation)
 - [Brain MRI Segmentation (Classification and Segmentation)](https://github.com/uakarsh/brain-segmentation)
 - [Image Classification (Cancer detection)](https://github.com/uakarsh/CNN-for-Beginners)
