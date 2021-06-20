@@ -41,7 +41,7 @@ Problem : Anomaly Detection and Anomaly Scoring
 
 ## Results
 
-![alt text](https://github.com/uakarsh/med-vqa/blob/main/results/Screenshot%202021-04-28%20115653.jpg?raw=true)
+![alt text](https://github.com/uakarsh/anomaly_detection/blob/main/Screenshot%202021-06-20%20232250.jpg)
 
 
 ## Areas of Improvement:
