@@ -5,8 +5,8 @@ Problem : Anomaly Detection and Anomaly Scoring
 -[Data](https://github.com/uakarsh/anomaly_detection/blob/main/anomaly_file.csv)
 
 
-- Anomaly Detection Colab Notebook : [Notebook](https://github.com/uakarsh/anomaly_detection/blob/main/Anomaly_Detection.ipynb)
-- Anomaly Scoring Colab Notebook : [Notebook](https://github.com/uakarsh/anomaly_detection/blob/main/Anomaly%20Scoring.ipynb)
+- Anomaly Detection Notebook : [Notebook](https://github.com/uakarsh/anomaly_detection/blob/main/Anomaly_Detection.ipynb)
+- Anomaly Scoring Notebook : [Notebook](https://github.com/uakarsh/anomaly_detection/blob/main/Anomaly%20Scoring.ipynb)
 
 
 ## Preprocessing:
